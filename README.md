@@ -1,0 +1,2 @@
+# splitpay
+Frictionless group payments
