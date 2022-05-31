@@ -1,3 +1,5 @@
+![Demo](https://i.imgur.com/sXNZM6l.gif)
+
 # Overview
 
 For the Rapyd hackathon we built Rapyd Split! It uses the Rapyd Checkout toolkit to let online store owners let their customers, including businesses, split the cost of large purchases easily without leaving the store’s website.
